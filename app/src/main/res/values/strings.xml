@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Information</string>
+    <string name="loading">Loading...</string>
+    <string name="movie_information">Movie Information</string>
+    <string name="backButton">back</string>
+    <string name="movie_rating">Movie Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="description_demo">description: Female adventurer Parker joins a crew of male trophy hunters in a remote wilderness park. Their goal: slaughter genetically recreated dinosaurs for sport using rifles, arrows, and grenades. After their guide is killed by raptors, the team tries to escape the park – but the hunters quickly become the hunted. Even worse, the park’s manager suspects Parker of being a spy and sends a hit squad after her. This battle’s about to become primitive!</string>
+    <string name="movietitle">MovieTitle</string>
+    <string name="movie_image">movie image</string>
+    <string name="rating">Rating</string>
+    <string name="rating_demo">10</string>
+</resources>
